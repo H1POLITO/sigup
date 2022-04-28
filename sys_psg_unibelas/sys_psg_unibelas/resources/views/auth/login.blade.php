@@ -87,12 +87,10 @@
 
           <!-- /.social-auth-links -->
 
-          <p class="mb-1">
-            <a href="forgot-password.html">Esqueci a minha senha</a>
+          <p class="mb-1" style="text-align:center;">
+            <a  href="forgot-password.html" >Esqueci a minha senha</a>
           </p>
-          <p class="mb-0">
-            <a href="register.html" class="text-center">Cadastre-se</a>
-          </p>
+         
         </div>
         <!-- /.card-body -->
       </div>
